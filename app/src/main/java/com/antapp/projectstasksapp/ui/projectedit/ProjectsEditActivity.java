@@ -101,7 +101,7 @@ public class ProjectsEditActivity extends AppCompatActivity {
         }
     }
 
-    // возвращает на предыдующий экран при нажатии на срелку назад
+    // возвращает на предыдующий экран при нажатии на стрелку назад
     @Override
     public boolean onSupportNavigateUp() {
         // завершает текущую активность
