@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Project Manager</string>
+    <string name="no_project_list">Список проектов пуст</string>
+    <string name="add_project">Добавить проект</string>
+    <string name="deadline">Дата завершения:</string>
+    <string name="tasks_count">Количество задач:</string>
+
+    <string name="no_tasks_list">Список задач пуст</string>
+
+    <string name="title_label">Название:</string>
+    <string name="empty_deadline">__.__.____</string>
+    <string name="description">Описание:</string>
+    <string name="end_to">Закончить:</string>
+    <string name="save">Сохранить</string>
+    <string name="project_editor">Редактор проекта</string>
+    <string name="task_editor">Редактор задачи</string>
+    <string name="is_ready">Готово:</string>
+    <string name="attention">Внимание</string>
+    <string name="delete_project_question">Вы уверены что хотите удалить проект?</string>
+    <string name="delete_task_question">Вы уверены что хотите удалить задачу?</string>
+    <string name="delete">Удалить</string>
+    <string name="abort">Отмена</string>
+
+</resources>
